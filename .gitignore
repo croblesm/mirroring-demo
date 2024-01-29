@@ -12,7 +12,7 @@
 *.user
 *.sln.docstates
 
-# Env files
+# Env FILES
 *.env
 
 # Build results
